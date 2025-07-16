@@ -1,0 +1,6 @@
+id("com, google ams google-services") version "4.3.15" apply false
+id("com gooale ams google-services")
+implementation (platform"com.google,firebase: firebase-
+bom: 32.3.1“))
+implementation ("com, goale firebase: firebase -analytics-ktx*) implementation (*com,google firebase; firebase-auth-ktx*)
+implementation ("com google firebase: firebase-firestore-ktx*)
